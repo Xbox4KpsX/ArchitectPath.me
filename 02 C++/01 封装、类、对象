@@ -1,0 +1,8 @@
+C++ 面向对象：类&对象， 继承，重载运算符和重载函数， 多态，数据抽象，数据封装，接口（抽象类）
+http://c.biancheng.net/cplus/class/
+https://www.runoob.com/cplusplus/cpp-classes-objects.html
+
+封装性：成员变量+成员函数
+
+类和对象
+类是创建对象的模板，不占用内存空间；对象是数据，需要内存来存储；
