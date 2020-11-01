@@ -19,9 +19,9 @@ https://www.runoob.com/cplusplus/cpp-classes-objects.html
 封装性：成员变量+成员函数
 
 ---
+# 基础知识
 ## 成员函数
 定义:
-
 	1. 定义在类内部，默认为内联函数；
 	2. 定义在类外部：使用范围解析运算符 :: 来定义
 
