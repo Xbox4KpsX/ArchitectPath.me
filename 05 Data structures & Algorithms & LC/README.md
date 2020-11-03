@@ -15,9 +15,19 @@
 
 ---
 
+## 基础题
+[941.有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/)
+[题解](https://leetcode-cn.com/problems/valid-mountain-array/solution/ying-gai-xie-fu-he-tiao-jian-de-cai-shi-zheng-que-/)
+```
+用到的函数：
+    int distance(auto iter, auto iter);  // 返回两个迭代器之间的距离
+    auto iter max_element(auto iter, auto iter);  // 返回迭代器之间距离的最大值；
+```
+
+
+---
+
 ## 字符串处理
-
-
 
 ---
 
@@ -30,5 +40,16 @@
 
 
 ---
+
+## 递归
+
+
+---
+
+## 动态规划
+
+[70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/submissions/) 
+[题解](https://leetcode-cn.com/problems/climbing-stairs/solution/guan-jian-zai-yu-de-dao-dong-tai-zhuan-yi-fang-che/)
+
 
 
