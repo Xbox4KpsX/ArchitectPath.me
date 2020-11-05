@@ -24,6 +24,8 @@
     auto iter max_element(auto iter, auto iter);  // 返回迭代器之间距离的最大值；
 ```
 
+[704.二分查找](https://leetcode-cn.com/problems/binary-search/)
+[题解](https://leetcode-cn.com/problems/binary-search/solution/1-er-fen-fa-2-algorithmfind-by-xbox4kpsx/)
 
 ---
 
