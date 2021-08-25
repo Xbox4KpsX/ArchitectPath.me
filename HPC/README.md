@@ -16,4 +16,4 @@
 《OpenMP_AffinityScheduling.pdf》这份报告，描述了customized的亲和线程的调度实现方法及结论分析。
 
 ## 性能优化编程
-《PerformanceProgramming.pdf》这份报告，基于特定项目，详细描述了性能分析流程，同时针对案例进行的性能优化方法、同时讨论了代码可扩展性、可读性以及可维护性。
+《PerformanceProgramming.pdf》这份报告，针对某个特定计算密集型程序，详细描述了性能分析流程，同时针对案例进行的性能优化方法、同时讨论了代码可扩展性、可读性以及可维护性。
