@@ -1,9 +1,17 @@
 # Algorithm Path
 
-## 该目录总结了算法及相关笔记
+## This directory records some algrotihm problems
 
 ## Progress
 https://leetcode-cn.com/u/xbox4kpsx/
 
+## Tree.hpp
+Tree questions, such as traversal / recursive
+
+## StringOp.hpp
+The operation of string
+
+## Search.hpp
+The questions of searching, such as binary search, etc.
 
 

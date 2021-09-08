@@ -22,4 +22,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Questions.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StringOp.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
