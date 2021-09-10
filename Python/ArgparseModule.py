@@ -14,5 +14,15 @@ print(args.verbose)
 print(args.test)
 
 args.verbose = "thank you ~" if args.verbose is None else not None
-
 print(args.verbose)
+
+def paint():
+    print("paint")
+    def paintA():
+        print("paintA")
+    paintA()
+
+paint()
+
+
+
