@@ -26,8 +26,6 @@ def main():
     # runfunc() 方法接受任意的位置和关键字参数，在 tracer 调用时会将他们传递给函数。
     tracer.runfunc(recurse, 2)
    
-    
-
 if __name__ == '__main__':
     main()
 
